@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HospitalSystem.BLL/HospitalSystem.BLL.csproj" />
+  <Project Path="HospitalSystem.DAL/HospitalSystem.DAL.csproj" />
+  <Project Path="HospitalSystem.DTO/HospitalSystem.DTO.csproj" />
+  <Project Path="HospitalSystem.Web/HospitalSystem.Web.csproj" Id="84d6274e-5c08-4ef6-bb7e-53950ddad39e" />
+  <Project Path="HospitalSystem/HospitalSystem.csproj" />
+</Solution>

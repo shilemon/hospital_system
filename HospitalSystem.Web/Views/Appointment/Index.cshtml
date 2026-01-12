@@ -1,0 +1,26 @@
+﻿@model List<HospitalSystem.Web.Models.AppointmentVM>
+
+<h2>Appointments</h2>
+
+<a href="/Appointment/Create">➕ New Appointment</a>
+<br />
+<br />
+
+<table border="1" cellpadding="6">
+    <tr>
+        <th>Patient</th>
+        <th>Doctor</th>
+        <th>Date</th>
+        <th>Status</th>
+    </tr>
+
+    @foreach (var a in Model)
+    {
+        <tr>
+            <td>@a.PatientName</td>
+            <td>@a.DoctorName</td>
+            <td>@a.AppointmentDate.ToShortDateString()</td>
+            <td>@a.Status</td>
+        </tr>
+    }
+</table>

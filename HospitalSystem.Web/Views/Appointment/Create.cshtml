@@ -1,0 +1,41 @@
+﻿@model HospitalSystem.Web.Models.CreateAppointmentVM
+
+<h2>Create Appointment</h2>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label>Patient</label><br />
+        <select asp-for="PatientId" asp-items="Model.Patients">
+            <option value="0">-- Select Patient --</option>
+        </select>
+        <span asp-validation-for="PatientId"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Doctor</label><br />
+        <select asp-for="DoctorId" asp-items="Model.Doctors">
+            <option value="0">-- Select Doctor --</option>
+        </select>
+        <span asp-validation-for="DoctorId"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Date</label><br />
+        <input asp-for="AppointmentDate" type="date" />
+        <span asp-validation-for="AppointmentDate"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Save</button>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

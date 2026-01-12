@@ -1,0 +1,30 @@
+﻿@model List<HospitalSystem.Web.Models.PatientVM>
+
+<h2>Patient List</h2>
+
+<a href="/Patient/Create">➕ Add New Patient</a>
+<br />
+<br />
+
+<table border="1" cellpadding="6">
+    <tr>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Date of Birth</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.FullName</td>
+            <td>@p.Email</td>
+            <td>@p.DateOfBirth.ToShortDateString()</td>
+            <td>
+                <a href="/Patient/Edit/@p.Id">Edit</a> |
+                <a href="/Patient/Delete/@p.Id"
+                   onclick="return confirm('Are you sure?')">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
