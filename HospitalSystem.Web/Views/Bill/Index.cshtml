@@ -1,0 +1,33 @@
+﻿@model List<HospitalSystem.Web.Models.BillVM>
+
+<h2>Bill List</h2>
+
+<a href="/Bill/Create" class="btn btn-success mb-3">
+    + Create New Bill
+</a>
+
+<table class="table table-bordered">
+    <thead class="table-primary">
+        <tr>
+            <th>Appointment ID</th>
+            <th>Amount</th>
+            <th>Date</th>
+            <th>Status</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var bill in Model)
+        {
+            <tr>
+                <td>@bill.AppointmentId</td>
+                <td>@bill.Amount</td>
+                <td>@bill.BillDate.ToShortDateString()</td>
+                <td>@bill.Status</td>
+                <td>
+                    <a href="/Bill/Invoice/@bill.Id">View Invoice</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

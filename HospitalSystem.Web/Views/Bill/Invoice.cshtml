@@ -1,0 +1,16 @@
+﻿@model HospitalSystem.Web.Models.BillVM
+
+
+<h2>Invoice</h2>
+
+<hr />
+
+<p><strong>Invoice ID:</strong> @Model.Id</p>
+<p><strong>Appointment ID:</strong> @Model.AppointmentId</p>
+<p><strong>Amount:</strong> ৳ @Model.Amount</p>
+<p><strong>Bill Date:</strong> @Model.BillDate.ToShortDateString()</p>
+<p><strong>Status:</strong> @Model.Status</p>
+
+<hr />
+
+<button onclick="window.print()">🖨 Print Invoice</button>

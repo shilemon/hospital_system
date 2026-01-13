@@ -15,12 +15,14 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\H
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\HospitalSystem.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\HospitalSystem.Web.RazorAssemblyInfo.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\HospitalSystem.Web.RazorAssemblyInfo.cs
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\HospitalSystem.Web.sourcelink.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\scopedcss\bundle\HospitalSystem.Web.styles.css
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\scopedcss\projectbundle\HospitalSystem.Web.bundle.scp.css
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\compressed\c9j650yru3-{0}-qtuas277z7-qtuas277z7.gz
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\compressed\fwwcdirlbs-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\compressed\o99ing0mzb-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\obj\Debug\net10.0\compressed\z2v27s8suy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz

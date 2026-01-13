@@ -53,6 +53,7 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\H
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.AssemblyInfoInputs.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.AssemblyInfo.cs
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.csproj.CoreCompileInputs.cache
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.sourcelink.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.dll
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\refint\HospitalSystem.DTO.dll
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DTO\obj\Debug\net10.0\HospitalSystem.DTO.pdb

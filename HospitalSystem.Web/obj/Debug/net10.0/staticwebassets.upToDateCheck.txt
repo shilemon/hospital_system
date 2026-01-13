@@ -1,3 +1,4 @@
+wwwroot\css\site-custom.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
@@ -61,8 +62,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\css\site-custom.css
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\css\site.css
-D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\favicon.ico
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\js\site.js
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -123,3 +124,4 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\jquery\
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\lib\jquery\LICENSE.txt
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.Web\wwwroot\favicon.ico

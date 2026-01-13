@@ -1,0 +1,24 @@
+﻿<h2>Create Bill (Raw Test)</h2>
+
+<form action="/Bill/Create" method="post">
+    <div>
+        <label>Appointment ID</label>
+        <input type="number" name="AppointmentId" />
+    </div>
+
+    <div>
+        <label>Amount</label>
+        <input type="number" name="Amount" />
+    </div>
+
+    <div>
+        <label>Status</label>
+        <select name="Status">
+            <option value="Unpaid">Unpaid</option>
+            <option value="Paid">Paid</option>
+        </select>
+    </div>
+
+    <br />
+    <button type="submit">SAVE BILL</button>
+</form>

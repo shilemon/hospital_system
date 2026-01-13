@@ -55,6 +55,7 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\H
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\HospitalSystem.DAL.AssemblyInfoInputs.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\HospitalSystem.DAL.AssemblyInfo.cs
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\HospitalSystem.DAL.csproj.CoreCompileInputs.cache
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\HospitalSystem.DAL.sourcelink.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\Hospital.DC63AE00.Up2Date
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\HospitalSystem.DAL.dll
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem.DAL\obj\Debug\net10.0\refint\HospitalSystem.DAL.dll

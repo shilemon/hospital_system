@@ -202,6 +202,7 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\Hospi
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.csproj.CoreCompileInputs.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.MvcApplicationPartsAssemblyInfo.cs
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.sourcelink.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\rjimswa.dswa.cache.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
