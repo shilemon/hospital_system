@@ -1,0 +1,33 @@
+﻿@model HospitalSystem.Web.Models.CreateDoctorVM
+
+<h2>➕ Add New Doctor</h2>
+
+<form method="post">
+    <div>
+        <label>Doctor Name</label><br />
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Specialty</label><br />
+        <input asp-for="Specialty" />
+        <span asp-validation-for="Specialty" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>
+            <input asp-for="IsAvailable" type="checkbox" />
+            Available
+        </label>
+    </div>
+
+    <br />
+
+    <button type="submit">💾 Save Doctor</button>
+    <a href="/Doctor">Cancel</a>
+</form>

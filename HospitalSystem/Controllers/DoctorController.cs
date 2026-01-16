@@ -8,13 +8,16 @@ namespace HospitalSystem.Controllers
     [Route("api/[controller]")]
     public class DoctorController : ControllerBase
     {
-        IDoctorService service;
+        private readonly IDoctorService service;
 
         public DoctorController(IDoctorService service)
         {
             this.service = service;
         }
 
+        // ======================
+        // BASIC CRUD
+        // ======================
         [HttpGet]
         public IActionResult Get()
         {
@@ -25,7 +28,9 @@ namespace HospitalSystem.Controllers
         public IActionResult Get(int id)
         {
             var data = service.Get(id);
-            if (data == null) return NotFound();
+            if (data == null)
+                return NotFound();
+
             return Ok(data);
         }
 
@@ -36,18 +41,22 @@ namespace HospitalSystem.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Doctor doctor)
+        public IActionResult Create([FromBody] Doctor doctor)
         {
             var result = service.Create(doctor);
-            if (result) return Ok("Doctor created successfully");
+            if (result)
+                return Ok("Doctor created successfully");
+
             return BadRequest("Doctor creation failed");
         }
 
         [HttpPut]
-        public IActionResult Update(Doctor doctor)
+        public IActionResult Update([FromBody] Doctor doctor)
         {
             var result = service.Update(doctor);
-            if (result) return Ok("Doctor updated successfully");
+            if (result)
+                return Ok("Doctor updated successfully");
+
             return BadRequest("Doctor update failed");
         }
 
@@ -55,8 +64,20 @@ namespace HospitalSystem.Controllers
         public IActionResult Delete(int id)
         {
             var result = service.Delete(id);
-            if (result) return Ok("Doctor deleted successfully");
+            if (result)
+                return Ok("Doctor deleted successfully");
+
             return BadRequest("Doctor delete failed");
+        }
+
+        // ======================
+        // 🔥 STEP 8: PERFORMANCE REPORT
+        // ======================
+        [HttpGet("performance")]
+        public IActionResult Performance()
+        {
+            var report = service.GetDoctorPerformance();
+            return Ok(report);
         }
     }
 }

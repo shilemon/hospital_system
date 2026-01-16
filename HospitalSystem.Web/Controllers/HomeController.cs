@@ -16,8 +16,13 @@ namespace HospitalSystem.Web.Controllers
             _baseUrl = config["ApiSettings:BaseUrl"];
         }
 
-        public IActionResult Index()
+    
+
+        public IActionResult Dashboard()
         {
+            if (!User.Identity.IsAuthenticated)
+                return RedirectToAction("Login", "Account");
+
             return View();
         }
 

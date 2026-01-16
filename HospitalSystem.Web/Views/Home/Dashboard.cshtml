@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>🏥 Hospital Management Dashboard</h2>
+
+<hr />
+
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px">
+
+    <a href="/Patient" class="card">👨‍⚕️ Patients</a>
+    <a href="/Doctor" class="card">🩺 Doctors</a>
+    <a href="/Appointment" class="card">📅 Appointments</a>
+    <a href="/Bill" class="card">💳 Billing</a>
+
+</div>
+
+<style>
+    .card {
+        padding: 20px;
+        border-radius: 8px;
+        background: #f4f6f8;
+        text-align: center;
+        font-size: 18px;
+        text-decoration: none;
+        color: #333;
+        box-shadow: 0 4px 8px rgba(0,0,0,.1);
+    }
+
+    .card:hover {
+        background: #007bff;
+        color: white;
+    }
+</style>

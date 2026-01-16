@@ -284,6 +284,18 @@
         }
       }
     },
+    "/api/Doctor/performance": {
+      "get": {
+        "tags": [
+          "Doctor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Patient": {
       "get": {
         "tags": [

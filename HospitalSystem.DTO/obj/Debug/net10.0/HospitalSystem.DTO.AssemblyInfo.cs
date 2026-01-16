@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HospitalSystem.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b92f27cf58124c0f3814729630df68a8b1aac3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4eb61cf1c6da2725b61745639e5d1024446d432")]
 [assembly: System.Reflection.AssemblyProductAttribute("HospitalSystem.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HospitalSystem.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

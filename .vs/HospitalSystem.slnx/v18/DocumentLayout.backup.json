@@ -3,12 +3,128 @@
   "WorkspaceRootPath": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\bill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\bill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\hospitalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\hospitalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\data\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\data\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\migrations\\20260114174431_initauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\migrations\\20260114174431_initauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\data\\authdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\hospitalsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\hospitalsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\models\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\createdoctorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\models\\doctorperformancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\doctorperformancevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|solutionrelative:hospitalsystem.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|solutionrelative:hospitalsystem.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E97A68-64B8-FA07-35C4-DAA7C1CE45B0}|HospitalSystem.DTO\\HospitalSystem.DTO.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.dto\\models\\doctorperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E97A68-64B8-FA07-35C4-DAA7C1CE45B0}|HospitalSystem.DTO\\HospitalSystem.DTO.csproj|solutionrelative:hospitalsystem.dto\\models\\doctorperformancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\bill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\bill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\bill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,10 +147,6 @@
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\createbillvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\wwwroot\\css\\site-custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -45,10 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -107,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\models\\editpatientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2180FDE9-6B53-853C-559F-AFA9698E6AC2}|HospitalSystem.DAL\\HospitalSystem.DAL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2180FDE9-6B53-853C-559F-AFA9698E6AC2}|HospitalSystem.DAL\\HospitalSystem.DAL.csproj|solutionrelative:hospitalsystem.dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -147,14 +251,6 @@
       "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -167,20 +263,8 @@
       "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.web\\hospitalsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{84D6274E-5C08-4EF6-BB7E-53950DDAD39E}|HospitalSystem.Web\\HospitalSystem.Web.csproj|solutionrelative:hospitalsystem.web\\hospitalsystem.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\hospitalsystem.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|solutionrelative:hospitalsystem.bll\\hospitalsystem.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\hospitalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\hospitalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2180FDE9-6B53-853C-559F-AFA9698E6AC2}|HospitalSystem.DAL\\HospitalSystem.DAL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.dal\\migrations\\20260109110530_addpatientidtonotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -209,18 +293,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6E97A68-64B8-FA07-35C4-DAA7C1CE45B0}|HospitalSystem.DTO\\HospitalSystem.DTO.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.dto\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E97A68-64B8-FA07-35C4-DAA7C1CE45B0}|HospitalSystem.DTO\\HospitalSystem.DTO.csproj|solutionrelative:hospitalsystem.dto\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FEFFFA8-D6EF-BE62-4A9E-9C26C661527A}|HospitalSystem\\HospitalSystem.csproj|solutionrelative:hospitalsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|solutionrelative:hospitalsystem.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|solutionrelative:hospitalsystem.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A49377C3-5406-3637-1882-0C95486743AB}|HospitalSystem.BLL\\HospitalSystem.BLL.csproj|d:\\aiub\\12th semester\\.net\\hospitalsystem\\hospitalsystem.bll\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -254,7 +326,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,130 +334,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
-              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T14:18:36.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BillController.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\BillController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\BillController.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\BillController.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\BillController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T07:52:48.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
-              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T07:54:30.861Z",
+              "WhenOpened": "2026-01-16T20:40:09.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BillVM.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\BillVM.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\BillVM.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\BillVM.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Models\\BillVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T07:53:39.534Z",
+              "WhenOpened": "2026-01-11T20:17:25.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Invoice.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
-              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:13:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T13:02:13.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T07:54:58.939Z",
+              "WhenOpened": "2026-01-14T20:14:45.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "HospitalSystem.Web\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T14:35:32.376Z",
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\RegisterVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\RegisterVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:22:24.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CreateBillVM.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateBillVM.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\CreateBillVM.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateBillVM.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Models\\CreateBillVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\LoginVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\LoginVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T14:16:08.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "HospitalSystem.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T08:12:25.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site-custom.css",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
-              "RelativeToolTip": "HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-13T07:59:51.162Z",
+              "WhenOpened": "2026-01-16T20:21:10.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T20:14:09.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Program.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Program.cs",
               "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Program.cs",
               "RelativeToolTip": "HospitalSystem.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T12:35:02.461Z",
               "EditorCaption": ""
@@ -393,6 +452,359 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T10:47:13.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\BillController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\BillController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\BillController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:52:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Program.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Program.cs",
+              "RelativeToolTip": "HospitalSystem\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:34:49.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HospitalSystem.csproj",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\HospitalSystem.csproj",
+              "RelativeDocumentMoniker": "HospitalSystem\\HospitalSystem.csproj",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\HospitalSystem.csproj",
+              "RelativeToolTip": "HospitalSystem\\HospitalSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T15:11:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:54:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Data\\IdentitySeeder.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\IdentitySeeder.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Data\\IdentitySeeder.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T19:26:21.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\appsettings.json",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\appsettings.json",
+              "RelativeToolTip": "HospitalSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-11T15:00:44.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260114174431_InitAuth.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Migrations\\20260114174431_InitAuth.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Migrations\\20260114174431_InitAuth.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Migrations\\20260114174431_InitAuth.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Migrations\\20260114174431_InitAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:44:31.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthDbContextFactory.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\AuthDbContextFactory.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Data\\AuthDbContextFactory.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\AuthDbContextFactory.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Data\\AuthDbContextFactory.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:29:39.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:23:59.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:15:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T09:55:25.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HospitalSystem.Web.csproj",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\HospitalSystem.Web.csproj",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\HospitalSystem.Web.csproj",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\HospitalSystem.Web.csproj",
+              "RelativeToolTip": "HospitalSystem.Web\\HospitalSystem.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T15:37:48.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T10:39:53.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateDoctorVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateDoctorVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\CreateDoctorVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateDoctorVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\CreateDoctorVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:38:56.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HospitalSystem.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-14T10:03:20.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorPerformanceVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\DoctorPerformanceVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\DoctorPerformanceVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\DoctorPerformanceVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\DoctorPerformanceVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:54:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HospitalSystem\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:40:10.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:33:46.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\DoctorService.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\DoctorService.cs",
+              "RelativeToolTip": "HospitalSystem.BLL\\Services\\DoctorService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:37:02.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoctorPerformanceDTO.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\DoctorPerformanceDTO.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\DoctorPerformanceDTO.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\DoctorPerformanceDTO.cs",
+              "RelativeToolTip": "HospitalSystem.DTO\\Models\\DoctorPerformanceDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:05:47.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T14:18:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T07:54:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BillVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\BillVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\BillVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\BillVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\BillVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:53:39.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\Bill\\Invoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T07:54:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T14:35:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateBillVM.cs",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateBillVM.cs",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\CreateBillVM.cs",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateBillVM.cs",
+              "RelativeToolTip": "HospitalSystem.Web\\Models\\CreateBillVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:16:08.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HospitalSystem.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T08:12:25.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "site-custom.css",
+              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
+              "RelativeDocumentMoniker": "HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
+              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
+              "RelativeToolTip": "HospitalSystem.Web\\wwwroot\\css\\site-custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-13T07:59:51.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Shared\\_Layout.cshtml",
@@ -400,37 +812,23 @@
               "RelativeToolTip": "HospitalSystem.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-13T08:07:08.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T08:07:08.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 39,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Appointment\\Create.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Appointment\\Create.cshtml",
               "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Appointment\\Create.cshtml",
               "RelativeToolTip": "HospitalSystem.Web\\Views\\Appointment\\Create.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-12T10:48:40.499Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\AppointmentController.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAIwIEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T10:47:13.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "CreateAppointmentVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreateAppointmentVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\CreateAppointmentVM.cs",
@@ -442,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 41,
               "Title": "AppointmentVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\AppointmentVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\AppointmentVM.cs",
@@ -454,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 42,
               "Title": "DoctorVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\DoctorVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\DoctorVM.cs",
@@ -466,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 43,
               "Title": "AppointmentService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\AppointmentService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\AppointmentService.cs",
@@ -478,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 44,
               "Title": "AppointmentDto.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\AppointmentDto.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\AppointmentDto.cs",
@@ -490,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 45,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\AppointmentController.cs",
@@ -502,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 46,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\IAppointmentService.cs",
@@ -514,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 47,
               "Title": "IBillService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IBillService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\IBillService.cs",
@@ -526,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 48,
               "Title": "Doctor.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\Doctor.cs",
@@ -538,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 49,
               "Title": "Appointment.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\Appointment.cs",
@@ -550,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 50,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Appointment\\Index.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Appointment\\Index.cshtml",
@@ -562,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 51,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\ErrorViewModel.cs",
@@ -574,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 52,
               "Title": "EditPatientVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\EditPatientVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\EditPatientVM.cs",
@@ -586,31 +984,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 54,
               "Title": "PatientService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\PatientService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\PatientService.cs",
               "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\PatientService.cs",
               "RelativeToolTip": "HospitalSystem.BLL\\Services\\PatientService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T14:36:48.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\PatientController.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T20:17:25.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 53,
               "Title": "Repository.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\Repositories\\Repository.cs",
@@ -622,7 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 55,
               "Title": "PatientController.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\PatientController.cs",
@@ -634,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 56,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Patient\\Index.cshtml",
@@ -646,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 57,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Patient\\Edit.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Patient\\Edit.cshtml",
@@ -658,7 +1044,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 58,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Patient\\Create.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Patient\\Create.cshtml",
@@ -670,7 +1056,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 59,
               "Title": "CreatePatientVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\CreatePatientVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\CreatePatientVM.cs",
@@ -682,7 +1068,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 60,
               "Title": "PatientVM.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\PatientVM.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\PatientVM.cs",
@@ -694,7 +1080,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 61,
               "Title": "BillController.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\BillController.cs",
               "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\BillController.cs",
@@ -706,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 65,
               "Title": "HospitalSystem.BLL.csproj",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\HospitalSystem.BLL.csproj",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\HospitalSystem.BLL.csproj",
@@ -714,23 +1100,12 @@
               "RelativeToolTip": "HospitalSystem.BLL\\HospitalSystem.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T15:11:17.25Z"
+              "WhenOpened": "2026-01-11T15:11:17.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HospitalSystem.Web.csproj",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\HospitalSystem.Web.csproj",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\HospitalSystem.Web.csproj",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\HospitalSystem.Web.csproj",
-              "RelativeToolTip": "HospitalSystem.Web\\HospitalSystem.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T15:37:48.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 63,
               "Title": "ApiSettings.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Models\\ApiSettings.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Models\\ApiSettings.cs",
@@ -742,7 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 64,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Views\\Home\\Index.cshtml",
@@ -754,7 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 62,
               "Title": "ApiService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.Web\\Services\\ApiService.cs",
@@ -766,55 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "HospitalSystem.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T13:02:13.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "HospitalSystem.Web\\appsettings.json",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.Web\\appsettings.json",
-              "RelativeToolTip": "HospitalSystem.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-11T15:00:44.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "HospitalSystem.csproj",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\HospitalSystem.csproj",
-              "RelativeDocumentMoniker": "HospitalSystem\\HospitalSystem.csproj",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\HospitalSystem.csproj",
-              "RelativeToolTip": "HospitalSystem\\HospitalSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T15:11:02.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Program.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Program.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Program.cs",
-              "RelativeToolTip": "HospitalSystem\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:34:49.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 66,
               "Title": "20260109110530_AddPatientIdToNotification.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\Migrations\\20260109110530_AddPatientIdToNotification.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\Migrations\\20260109110530_AddPatientIdToNotification.cs",
@@ -826,19 +1153,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 68,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\NotificationService.cs",
               "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\NotificationService.cs",
               "RelativeToolTip": "HospitalSystem.BLL\\Services\\NotificationService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T10:48:44.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 69,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\INotificationService.cs",
@@ -850,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 67,
               "Title": "Notification.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\Notification.cs",
@@ -862,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 77,
               "Title": "20260109104457_AddNotification.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\Migrations\\20260109104457_AddNotification.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\Migrations\\20260109104457_AddNotification.cs",
@@ -874,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 70,
               "Title": "HospitalDbContext.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\HospitalDbContext.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\HospitalDbContext.cs",
@@ -886,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 71,
               "Title": "BillService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\BillService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\BillService.cs",
@@ -898,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 78,
               "Title": "20260109102457_AddBill.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\Migrations\\20260109102457_AddBill.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\Migrations\\20260109102457_AddBill.cs",
@@ -910,7 +1237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 72,
               "Title": "Bill.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DTO\\Models\\Bill.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DTO\\Models\\Bill.cs",
@@ -922,43 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "HospitalSystem\\Controllers\\DoctorController.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "HospitalSystem\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA+wD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:40:10.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.BLL\\Services\\DoctorService.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Services\\DoctorService.cs",
-              "RelativeToolTip": "HospitalSystem.BLL\\Services\\DoctorService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA+wDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:37:02.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
-              "ToolTip": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
-              "RelativeToolTip": "HospitalSystem.BLL\\Interfaces\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T14:33:46.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 73,
               "Title": "IPatientService.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.BLL\\Interfaces\\IPatientService.cs",
               "RelativeDocumentMoniker": "HospitalSystem.BLL\\Interfaces\\IPatientService.cs",
@@ -970,7 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 74,
               "Title": "20260108102445_InitialCreate.cs",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\Migrations\\20260108102445_InitialCreate.cs",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\Migrations\\20260108102445_InitialCreate.cs",
@@ -982,7 +1273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 75,
               "Title": "HospitalSystem.DAL.csproj",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem.DAL\\HospitalSystem.DAL.csproj",
               "RelativeDocumentMoniker": "HospitalSystem.DAL\\HospitalSystem.DAL.csproj",
@@ -990,11 +1281,12 @@
               "RelativeToolTip": "HospitalSystem.DAL\\HospitalSystem.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T10:18:56.983Z"
+              "WhenOpened": "2026-01-08T10:18:56.983Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 76,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\AIUB\\12th semester\\.NET\\HospitalSystem\\HospitalSystem\\appsettings.json",
               "RelativeDocumentMoniker": "HospitalSystem\\appsettings.json",

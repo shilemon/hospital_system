@@ -168,6 +168,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "HospitalSystem.Controllers.DoctorController",
+    "Method": "Performance",
+    "RelativePath": "api/Doctor/performance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "HospitalSystem.Controllers.PatientController",
     "Method": "Get",
     "RelativePath": "api/Patient",
