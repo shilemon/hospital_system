@@ -1,7 +1,49 @@
 ﻿@{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Dashboard";
 }
 
-<h2>Hospital System Frontend</h2>
+<h1>🏥 Hospital Management Dashboard</h1>
 
-<a href="/Home/TestApi">Test API Connection</a>
+<hr />
+
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:25px; max-width:900px;">
+
+    <a asp-controller="Patient" asp-action="Index">
+        <div class="card">👨‍⚕️ Patients</div>
+    </a>
+
+    <a asp-controller="Doctor" asp-action="Index">
+        <div class="card">🩺 Doctors</div>
+    </a>
+
+    <a asp-controller="Appointment" asp-action="Index">
+        <div class="card">📅 Appointments</div>
+    </a>
+
+    <a asp-controller="Bill" asp-action="Index">
+        <div class="card">💳 Billing</div>
+    </a>
+
+</div>
+
+<style>
+    .card {
+        padding: 30px;
+        border-radius: 10px;
+        background: #f8f9fa;
+        text-align: center;
+        font-size: 20px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        transition: 0.2s;
+    }
+
+        .card:hover {
+            transform: translateY(-4px);
+            background: #eef4ff;
+        }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+</style>

@@ -37,29 +37,19 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
     options.Password.RequireLowercase = false;
     options.Password.RequireNonAlphanumeric = false;
 })
-
 .AddEntityFrameworkStores<AuthDbContext>()
 .AddDefaultTokenProviders();
-
-builder.Services.ConfigureApplicationCookie(options =>
-{
-    options.LoginPath = "/Account/Login";
-    options.AccessDeniedPath = "/Account/Login";
-});
 
 // ================================
 // COOKIE SETTINGS
 // ================================
 builder.Services.ConfigureApplicationCookie(options =>
 {
-    options.LoginPath = "/Account/Login";      // first page
-    options.AccessDeniedPath = "/Account/AccessDenied";
+    options.LoginPath = "/Account/Login";
+    options.AccessDeniedPath = "/Account/Login";
     options.ExpireTimeSpan = TimeSpan.FromHours(2);
 });
 
-// ================================
-// BUILD APP
-// ================================
 var app = builder.Build();
 
 // ================================
@@ -76,16 +66,18 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-// 🔐 AUTH MUST BE HERE
 app.UseAuthentication();
 app.UseAuthorization();
 
 // ================================
-// ROUTES
+// ROUTING (🔥 FIXED)
 // ================================
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Login}/{id?}");
 
-// ================================
+app.MapControllerRoute(
+    name: "mvc",
+    pattern: "{controller}/{action=Index}/{id?}");
+
 app.Run();
