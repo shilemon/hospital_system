@@ -17,6 +17,15 @@
         <label>Confirm Password</label>
         <input asp-for="ConfirmPassword" type="password" />
     </div>
+    
+    <div class="form-group">
+        <label>Role</label>
+        <select asp-for="Role" class="form-control">
+            <option value="Admin">Admin</option>
+            <option value="Doctor">Doctor</option>
+        </select>
+    </div>
+
 
     <button type="submit">Register</button>
 </form>

@@ -1,40 +1,58 @@
-using HospitalSystem.BLL.Interfaces;
+﻿using HospitalSystem.BLL.Interfaces;
 using HospitalSystem.BLL.Services;
 using HospitalSystem.DAL.Context;
 using HospitalSystem.DAL.Interfaces;
 using HospitalSystem.DAL.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ================================
+// ADD SERVICES
+// ================================
 
+// Controllers
 builder.Services.AddControllers();
-builder.Services.AddOpenApi();
 
-// Database
+// 🔥 SWAGGER
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// ================================
+// DATABASE
+// ================================
 builder.Services.AddDbContext<HospitalDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Repository
+// ================================
+// REPOSITORY
+// ================================
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-// Services
-// Services
+// ================================
+// BUSINESS SERVICES
+// ================================
 builder.Services.AddScoped<IPatientService, PatientService>();
 builder.Services.AddScoped<IDoctorService, DoctorService>();
 builder.Services.AddScoped<IAppointmentService, AppointmentService>();
 builder.Services.AddScoped<IBillService, BillService>();
 builder.Services.AddScoped<INotificationService, NotificationService>();
 
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ================================
+// MIDDLEWARE PIPELINE
+// ================================
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    // 🔥 ENABLE SWAGGER UI
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "HospitalSystem API v1");
+        c.RoutePrefix = "swagger"; // https://localhost:xxxx/swagger
+    });
 }
 
 app.UseHttpsRedirection();

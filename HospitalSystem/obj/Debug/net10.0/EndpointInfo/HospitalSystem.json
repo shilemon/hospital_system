@@ -1,17 +1,9 @@
 {
-  "openapi": "3.1.1",
+  "openapi": "3.0.4",
   "info": {
-    "title": "HospitalSystem | v1",
-    "version": "1.0.0"
+    "title": "HospitalSystem",
+    "version": "1.0"
   },
-  "servers": [
-    {
-      "url": "http://localhost:7416/"
-    },
-    {
-      "url": "https://localhost:44384/"
-    }
-  ],
   "paths": {
     "/api/Appointment": {
       "get": {
@@ -45,8 +37,7 @@
                 "$ref": "#/components/schemas/Appointment"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -66,11 +57,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -93,11 +80,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -132,11 +115,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -180,8 +159,7 @@
                 "$ref": "#/components/schemas/Doctor"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -210,8 +188,7 @@
                 "$ref": "#/components/schemas/Doctor"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -231,11 +208,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -256,11 +229,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -328,8 +297,7 @@
                 "$ref": "#/components/schemas/Patient"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -349,11 +317,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -374,11 +338,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -400,8 +360,7 @@
                 "$ref": "#/components/schemas/Patient"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -419,11 +378,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -442,27 +397,15 @@
         "type": "object",
         "properties": {
           "id": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
+            "type": "integer",
             "format": "int32"
           },
           "patientId": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
+            "type": "integer",
             "format": "int32"
           },
           "doctorId": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
+            "type": "integer",
             "format": "int32"
           },
           "appointmentDate": {
@@ -470,54 +413,54 @@
             "format": "date-time"
           },
           "status": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           }
-        }
+        },
+        "additionalProperties": false
       },
       "Doctor": {
         "type": "object",
         "properties": {
           "id": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
+            "type": "integer",
             "format": "int32"
           },
           "fullName": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "specialty": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "isAvailable": {
             "type": "boolean"
           }
-        }
+        },
+        "additionalProperties": false
       },
       "Patient": {
         "type": "object",
         "properties": {
           "id": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
+            "type": "integer",
             "format": "int32"
           },
           "fullName": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "email": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "dateOfBirth": {
             "type": "string",
             "format": "date-time"
           }
-        }
+        },
+        "additionalProperties": false
       }
     }
   },

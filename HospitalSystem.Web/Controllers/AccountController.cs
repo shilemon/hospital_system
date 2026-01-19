@@ -30,13 +30,12 @@ namespace HospitalSystem.Web.Controllers
         // =========================
         // REGISTER (POST)
         // =========================
+
         [HttpPost]
         public async Task<IActionResult> Register(RegisterVM model)
         {
             if (!ModelState.IsValid)
-            {
                 return View(model);
-            }
 
             var user = new IdentityUser
             {
@@ -48,11 +47,12 @@ namespace HospitalSystem.Web.Controllers
 
             if (result.Succeeded)
             {
-                // ✅ Redirect to Login after successful registration
-                return RedirectToAction("Login", "Account");
+                // Default role
+                await _userManager.AddToRoleAsync(user, "Doctor");
+
+                return RedirectToAction("Login");
             }
 
-            // ❌ Show identity errors
             foreach (var error in result.Errors)
             {
                 ModelState.AddModelError("", error.Description);
@@ -60,6 +60,7 @@ namespace HospitalSystem.Web.Controllers
 
             return View(model);
         }
+
 
         // =========================
         // LOGIN (GET)
@@ -105,5 +106,6 @@ namespace HospitalSystem.Web.Controllers
             await _signInManager.SignOutAsync();
             return RedirectToAction("Login", "Account");
         }
+
     }
 }

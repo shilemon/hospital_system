@@ -219,3 +219,6 @@ D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\refin
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.pdb
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\HospitalSystem.genruntimeconfig.cache
 D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\obj\Debug\net10.0\ref\HospitalSystem.dll
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AIUB\12th semester\.NET\HospitalSystem\HospitalSystem\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
