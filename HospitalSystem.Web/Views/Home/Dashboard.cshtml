@@ -2,33 +2,131 @@
     ViewData["Title"] = "Dashboard";
 }
 
-<h2>🏥 Hospital Management Dashboard</h2>
+<div class="dashboard-container">
 
-<hr />
+    <h1 class="dashboard-title">
+        🏥 Hospital Management Dashboard
+    </h1>
 
-<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:20px">
+    <p class="dashboard-subtitle">
+        Manage patients, doctors, appointments and billing from one place
+    </p>
 
-    <a href="/Patient" class="card">👨‍⚕️ Patients</a>
-    <a href="/Doctor" class="card">🩺 Doctors</a>
-    <a href="/Appointment" class="card">📅 Appointments</a>
-    <a href="/Bill" class="card">💳 Billing</a>
+    <div class="dashboard-grid">
 
+        <a asp-controller="Patient" asp-action="Index" class="dash-card patient">
+            <div class="icon">👨‍⚕️</div>
+            <h3>Patients</h3>
+            <p>Manage patient records</p>
+        </a>
+
+        <a asp-controller="Doctor" asp-action="Index" class="dash-card doctor">
+            <div class="icon">🩺</div>
+            <h3>Doctors</h3>
+            <p>Doctor profiles & performance</p>
+        </a>
+
+        <a asp-controller="Appointment" asp-action="Index" class="dash-card appointment">
+            <div class="icon">📅</div>
+            <h3>Appointments</h3>
+            <p>Schedule & track visits</p>
+        </a>
+
+        <a asp-controller="Bill" asp-action="Index" class="dash-card billing">
+            <div class="icon">💳</div>
+            <h3>Billing</h3>
+            <p>Invoices & payments</p>
+        </a>
+
+    </div>
 </div>
 
 <style>
-    .card {
-        padding: 20px;
-        border-radius: 8px;
-        background: #f4f6f8;
-        text-align: center;
-        font-size: 18px;
-        text-decoration: none;
-        color: #333;
-        box-shadow: 0 4px 8px rgba(0,0,0,.1);
+    body {
+        background: linear-gradient(120deg, #f0f4ff, #f9fbff);
     }
 
-    .card:hover {
-        background: #007bff;
-        color: white;
+    .dashboard-container {
+        max-width: 1100px;
+        margin: auto;
+        padding: 30px;
+    }
+
+    .dashboard-title {
+        font-size: 34px;
+        font-weight: 700;
+        margin-bottom: 5px;
+        color: #1f2937;
+    }
+
+    .dashboard-subtitle {
+        color: #6b7280;
+        margin-bottom: 30px;
+    }
+
+    .dashboard-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 25px;
+    }
+
+    .dash-card {
+        background: white;
+        border-radius: 14px;
+        padding: 30px;
+        text-decoration: none;
+        color: #111827;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .dash-card::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            transition: 0.3s;
+        }
+
+        .dash-card:hover {
+            transform: translateY(-6px);
+        }
+
+            .dash-card:hover::after {
+                opacity: 0.08;
+            }
+
+        .dash-card .icon {
+            font-size: 42px;
+            margin-bottom: 15px;
+        }
+
+        .dash-card h3 {
+            margin-bottom: 6px;
+            font-size: 20px;
+        }
+
+        .dash-card p {
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+    /* Card colors */
+    .patient::after {
+        background: #3b82f6;
+    }
+
+    .doctor::after {
+        background: #8b5cf6;
+    }
+
+    .appointment::after {
+        background: #10b981;
+    }
+
+    .billing::after {
+        background: #f59e0b;
     }
 </style>

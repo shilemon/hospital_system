@@ -15,7 +15,6 @@ namespace HospitalSystem.BLL.Interfaces
         // Availability
         List<Doctor> GetAvailableDoctors();
 
-        // 🔥 STEP 8: PERFORMANCE REPORT
         List<DoctorPerformanceDTO> GetDoctorPerformance();
     }
 }

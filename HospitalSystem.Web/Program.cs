@@ -6,29 +6,22 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ================================
 // MVC
-// ================================
 builder.Services.AddControllersWithViews();
 
-// ================================
 // API Settings
-// ================================
+
 builder.Services.Configure<ApiSettings>(
     builder.Configuration.GetSection("ApiSettings"));
 
 builder.Services.AddHttpClient<ApiService>();
 
-// ================================
 // AUTH DATABASE (Identity)
-// ================================
 builder.Services.AddDbContext<AuthDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("AuthConnection")));
 
-// ================================
 // IDENTITY CONFIG
-// ================================
 builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
 {
     options.Password.RequiredLength = 6;
